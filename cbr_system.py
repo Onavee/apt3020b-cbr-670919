@@ -176,7 +176,7 @@ def retrieve_best_case(new_case):
 
 
 # TEsting the program
-print("===== BizAssist CBR System =====")
+print(" ReasonRight CBR System")
 
 new_case = get_new_case()
 

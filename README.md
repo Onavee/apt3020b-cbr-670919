@@ -4,10 +4,9 @@ A Python-based Case-Based Reasoning (CBR) system that recommends solutions to co
 
 ## Student Details
 
--Name: Viona GItonga
--Student ID: 670919
--Course: APT3020B -Knowledge-Based Systems
-
+- Name: Viona Gitonga
+- Student ID: 670919
+- Course: APT 3020B – Knowledge-Based Systems
 - Selected Scenario: Small Business Support
 
 ## Project Description
@@ -108,8 +107,6 @@ Final Solution: Improve customer service by training staff and responding to com
 New case retained successfully.
 Total cases: 9
 ```
-
-## Conclusion
 
 ## Conclusion
 
