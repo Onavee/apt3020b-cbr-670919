@@ -174,7 +174,7 @@ def retrieve_best_case(new_case):
     return best_case, best_score
 
 
-
+ 
 # TEsting the program
 print(" ReasonRight CBR System")
 

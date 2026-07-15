@@ -110,10 +110,11 @@ New case retained successfully.
 Total cases: 9
 ```
 
-#### Test Case 4
+#### Test Case 2
 
 ```text
  ReasonRight CBR System
+ 
 Describe your business (e.g.,  jewellery, wholesale, bakery, pharmacy): Hotel
 Current sales level (low, medium, high): medium
 Customer complaints (none, few, many): many
