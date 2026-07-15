@@ -82,6 +82,8 @@ The maximum possible similarity score is **16**. After comparing all previous ca
 
 ## Test Cases
 
+#### Test Case 1
+
 ```text
  ReasonRight CBR System
 
@@ -104,6 +106,34 @@ Improve customer service by training staff and responding to complaints quickly.
 Did the suggested solution work? yes
 
 Final Solution: Improve customer service by training staff and responding to complaints quickly.
+New case retained successfully.
+Total cases: 9
+```
+
+#### Test Case 4
+
+```text
+ ReasonRight CBR System
+Describe your business (e.g.,  jewellery, wholesale, bakery, pharmacy): Hotel
+Current sales level (low, medium, high): medium
+Customer complaints (none, few, many): many
+Stock status (available, low, out of stock): low
+Marketing activity (none, low, medium, high): none
+Business age (new or established): new
+What is the main business problem? A lot of customer complains; they don't get their order on time.
+
+Most Similar Case
+----------------------
+Case ID: 2
+Similarity Score: 4
+Similarity Percentage: 25.0 %
+Suggested Solution:
+Improve customer service by training staff and responding to complaints quickly.
+
+Did the suggested solution work? no
+Enter revised solution: Plan on investing on an EPOS system that tracks customers orders, this helps in knowing which customer order is first.
+
+Final Solution: Plan on investing on an EPOS system that tracks customers orders, this helps in knowing which customer order is first.
 New case retained successfully.
 Total cases: 9
 ```
